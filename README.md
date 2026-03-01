@@ -1,1 +1,1 @@
-# CPP-Function-Fundamentals
+A comprehensive guide to C++ Functions. This repository covers function Declaration, Definition, Parameters, Return types, and the DRY (Don't Repeat Yourself) principle for writing clean and modular code.
